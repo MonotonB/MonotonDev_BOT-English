@@ -7,6 +7,6 @@ In token.env:
 
 Russian Bot: https://t.me/MonotonDev_BOT
 
-English Bot: work in progress...
+English Bot: https://t.me/MonotonDevEnglish_BOT
 
 Author: https://github.com/MonotonB
